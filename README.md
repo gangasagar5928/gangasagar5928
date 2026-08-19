@@ -3,7 +3,7 @@
 # Hi there, I'm Aman Kumar Singh 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=520&lines=EEE+Student+%7C+Developer+%26+Linux+Enthusiast;Building+Faujiniwas+%F0%9F%9A%80;Mobile+Apps+%7C+Flutter+%26+Dart;Cybersecurity+%26+Local+LLM+Experiments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=560&lines=EEE+Student+%7C+Developer+%26+Embedded+Enthusiast;Building+Faujiniwas+%F0%9F%9A%80;Mobile+Apps+%7C+Flutter+%26+Dart;Embedded+Systems+%26+Cybersecurity+Learner" alt="Typing SVG" />
 </a>
 
 <p>
@@ -20,11 +20,11 @@
 
 **About Me**
 
-* 🔭 Main Project: **Faujiniwas**
+* 🔭 Main Project: **Faujiniwas** — Zero-Brokerage Housing for Indian Armed Forces
 * 🎓 Pursuing: **Electrical & Electronics Engineering (EEE)** @ **Galgotias College of Engineering and Technology (GCET)**
-* 🌱 Exploring: **Cybersecurity, Ethical Hacking & Local LLM Deployments** (Ollama + Termux)
+* 🌱 Exploring: **Embedded Systems, Cybersecurity & Local LLM Deployments** (Ollama + Termux)
 * ⚙️ Operating Systems: **Garuda Linux** & **BlackArch**
-* 🎭 Student Coordinator @ **StageX Club**
+* 🎭 Member @ **StageX Club**
 * ⚡ Fun fact: Pushing mobile hardware limits by hosting local AI models on-device.
 
 ---
@@ -37,23 +37,31 @@
 
 ---
 
+**Projects**
+
+| Project | Description | Stack | Status |
+|:---|:---|:---|:---|
+| [🏠 Faujiniwas](https://github.com/gangasagar5928/faujiniwas) | Zero-brokerage housing & relocation network for Indian Armed Forces across 62+ military cantonments | React 19, Vite, Firebase, Flutter | [![Live](https://img.shields.io/badge/Live-faujiniwas.web.app-238636?style=flat-square)](https://faujiniwas.web.app) |
+| [🔋 AI-Hardened Self-Healing BMS](https://github.com/gangasagar5928/AI-Hardened-Self-Healing-Battery-Management-System-BMS-) | Cyber-hardened EV Battery Management System with 7-layer ML-based intrusion detection, EKF SoC, and auto-healing engine | ESP32, C++, Python, FreeRTOS | ![CI](https://github.com/gangasagar5928/AI-Hardened-Self-Healing-Battery-Management-System-BMS-/actions/workflows/ci.yml/badge.svg) |
+| [🛡️ BioTrust-Pulse](https://github.com/gangasagar5928/BioTrust-Pulse) | Biometric hardware security coprocessor for tamper-proof PPG authentication using ATECC608A dual root-of-trust | ESP32, ATECC608A, Flutter, TypeScript | ![CI](https://github.com/gangasagar5928/BioTrust-Pulse/actions/workflows/ci.yml/badge.svg) |
+| [🚨 Sentry BMS](https://github.com/gangasagar5928/Sentry-BMS) | ESP32 BMS with RFID authentication, rolling-code RF, radar proximity anti-theft, and real-time telemetry | ESP32, C++, Arduino | ![CI](https://github.com/gangasagar5928/Sentry-BMS/actions/workflows/ci.yml/badge.svg) |
+| [⚡ Sentry-VoltCore BMS](https://github.com/gangasagar5928/Sentry-Voltcore-BMS) | Integrated ESP32 BMS combining VoltCore precision AFE with Sentry dual-layer security engine | ESP32, C++, Hardware Security | ![CI](https://github.com/gangasagar5928/Sentry-Voltcore-BMS/actions/workflows/ci.yml/badge.svg) |
+| [🔌 VoltCore BMS](https://github.com/gangasagar5928/Voltcore-BMS) | Standalone precision Battery Management System with INA219 current sensing, Steinhart-Hart thermal model | ESP32, C++, AFE | ![CI](https://github.com/gangasagar5928/Voltcore-BMS/actions/workflows/ci.yml/badge.svg) |
+| [🕉️ Dharma Daily](https://github.com/gangasagar5928/Dharma-Daily) | Offline Vedic Panchang, Sacred Scripture Reader & Spiritual Tradition Guide with 455-day Drik Siddhanta calendar | Flutter, Dart, Android | ![CI](https://github.com/gangasagar5928/Dharma-Daily/actions/workflows/ci.yml/badge.svg) |
+| [🎙️ Eloqui](https://github.com/gangasagar5928/Eloqui) | On-device AI English & IELTS speaking coach running Whisper STT + Llama 1.5B + Piper TTS via C++ FFI | Flutter, Dart, C++ FFI, llama.cpp | ![CI](https://github.com/gangasagar5928/Eloqui/actions/workflows/ci.yml/badge.svg) |
+
+---
+
 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gangasagar5928&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gangasagar5928&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gangasagar5928&theme=radical&hide_border=true&area=true" width="96%" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true" width="96%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gangasagar5928&theme=radical&hide_border=true" width="96%" />
 </div>
 
 ---
@@ -63,7 +71,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <div align="center">

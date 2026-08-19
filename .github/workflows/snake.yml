@@ -2,7 +2,7 @@
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -12,19 +12,21 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: gangasagar5928
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push Snake Artifacts to Output Branch
+
+      - name: Push Output to Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
