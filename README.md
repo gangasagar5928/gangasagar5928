@@ -40,14 +40,20 @@
 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gangasagar5928&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangasagar5928&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gangasagar5928&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gangasagar5928&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gangasagar5928&theme=radical&hide_border=true" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true" width="96%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gangasagar5928&theme=radical&hide_border=true" width="96%" />
 </div>
 
 ---
