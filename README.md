@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hi there, I'm Aman Kumar Singh 👋
 
@@ -42,13 +42,8 @@
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
 | [🏠 Faujiniwas](https://github.com/gangasagar5928/faujiniwas) | Zero-brokerage housing & relocation network for Indian Armed Forces across 62+ military cantonments | React 19, Vite, Firebase, Flutter | [![Live](https://img.shields.io/badge/-Live-238636?style=flat-square)](https://faujiniwas.web.app) |
-| [🔋 AI-Hardened Self-Healing BMS](https://github.com/gangasagar5928/cyber-bms-ev) | Cyber-hardened EV Battery Management System with 7-layer ML-based intrusion detection, EKF SoC, and auto-healing engine | ESP32, C++, Python, FreeRTOS | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/cyber-bms-ev/ci.yml?label=CI&style=flat-square) |
-| [🛡️ BioTrust-Pulse](https://github.com/gangasagar5928/BioTrust-Pulse) | Biometric hardware security coprocessor for tamper-proof PPG authentication using ATECC608A dual root-of-trust | ESP32, ATECC608A, Flutter, TypeScript | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/BioTrust-Pulse/ci.yml?label=CI&style=flat-square) |
-| [🚨 Sentry BMS](https://github.com/gangasagar5928/Sentry-BMS) | ESP32 BMS with RFID authentication, rolling-code RF, radar proximity anti-theft, and real-time telemetry | ESP32, C++, Arduino | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/Sentry-BMS/ci.yml?label=CI&style=flat-square) |
-| [⚡ Sentry-VoltCore BMS](https://github.com/gangasagar5928/Sentry-Voltcore-BMS) | Integrated ESP32 BMS combining VoltCore precision AFE with Sentry dual-layer security engine | ESP32, C++, Hardware Security | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/Sentry-Voltcore-BMS/ci.yml?label=CI&style=flat-square) |
-| [🔌 VoltCore BMS](https://github.com/gangasagar5928/Voltcore-BMS) | Standalone precision BMS with INA219 current sensing and Steinhart-Hart thermal model | ESP32, C++, AFE | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/Voltcore-BMS/ci.yml?label=CI&style=flat-square) |
 | [🕉️ Dharma Daily](https://github.com/gangasagar5928/Dharma-Daily) | Offline Vedic Panchang, Sacred Scripture Reader & Spiritual Tradition Guide with 455-day Drik Siddhanta calendar | Flutter, Dart, Android | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/Dharma-Daily/ci.yml?label=CI&style=flat-square) |
-| [🎙️ Eloqui](https://github.com/gangasagar5928/Eloqui) | On-device AI English & IELTS speaking coach running Whisper STT + Llama 1.5B + Piper TTS via C++ FFI | Flutter, Dart, C++ FFI, llama.cpp | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/Eloqui/ci.yml?label=CI&style=flat-square) | On-device AI English & IELTS speaking coach running Whisper STT + Llama 1.5B + Piper TTS via C++ FFI | Flutter, Dart, C++ FFI, llama.cpp | ![CI](https://github.com/gangasagar5928/Eloqui/actions/workflows/ci.yml/badge.svg) |
+| [🎙️ Eloqui](https://github.com/gangasagar5928/Eloqui) | On-device AI English & IELTS speaking coach running Whisper STT + Llama 1.5B + Piper TTS via C++ FFI | Flutter, Dart, C++ FFI, llama.cpp | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/Eloqui/ci.yml?label=CI&style=flat-square) |
 
 ---
 
