@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true&timezone=Asia%2FKolkata" width="96%" />
 </div>
 
 ---
