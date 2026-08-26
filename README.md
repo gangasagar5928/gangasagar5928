@@ -1,24 +1,22 @@
 <div align="center">
 
-# Hi there, I'm Aman Kumar Singh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=190&section=header&text=Aman%20Kumar%20Singh%20%F0%9F%91%8B&fontSize=40&fontAlignY=36&animation=twinkling&desc=Electrical%20%26%20Electronics%20Engineer%20%7C%20Embedded%20Systems%20%26%20Defence%20Tech&descFontSize=16&descAlignY=60&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=560&lines=EEE+Student+%7C+Developer+%26+Embedded+Enthusiast;Building+Faujiniwas+%F0%9F%9A%80;Mobile+Apps+%7C+Flutter+%26+Dart;Embedded+Systems+%26+Cybersecurity+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=23&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=⚡+EEE+Engineer+%7C+Embedded+Systems+%26+Cybersecurity;🚀+Building+Faujiniwas+—+Defence+Housing+Network;🌊+VARUNA-SDS+—+Subsea+Acoustic+Waveform+Synthesis;🪖+NIRDHVANI+—+Tactical+Adaptive+Noise+Cancellation;📱+Mobile+App+Developer+%7C+Flutter+%26+Dart" alt="Typing SVG" />
 </a>
 
-<p>
+<p align="center">
   <a href="https://github.com/gangasagar5928"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/gangasagar5928"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:singhamankumar.5928@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:singhamankumar.5928@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=120&section=header"/>
 
 </div>
 
-**About Me**
+---
+
+### 👨‍💻 About Me
 
 * 🔭 Main Project: **Faujiniwas** — Zero-Brokerage Housing for Indian Armed Forces
 * 🎓 Pursuing: **Electrical & Electronics Engineering (EEE)** @ **Galgotias College of Engineering and Technology (GCET)**
@@ -29,15 +27,15 @@
 
 ---
 
-**Tech Stack & Tools**
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,py,linux,bash,git,vscode,arch" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,flutter,dart,linux,bash,git,vscode,arch,arduino,firebase" />
 </p>
 
 ---
 
-**Projects**
+### 🚀 Featured Projects
 
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
@@ -49,7 +47,7 @@
 
 ---
 
-**GitHub Analytics**
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Isometric Contribution Graph" />
@@ -71,7 +69,7 @@
 
 ---
 
-**Contribution Activity**
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
