@@ -42,6 +42,8 @@
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
 | [🏠 Faujiniwas](https://github.com/gangasagar5928/faujiniwas) | Zero-brokerage housing & relocation network for Indian Armed Forces across 62+ military cantonments | React 19, Vite, Firebase, Flutter | [![Live](https://img.shields.io/badge/-Live-238636?style=flat-square)](https://faujiniwas.web.app) |
+| [🌊 VARUNA-SDS](https://github.com/gangasagar5928/VARUNA-SDS) | Software-Defined Subsea Acoustic Waveform Synthesizer with real-time DDS, LFM chirp modulation & 7.6 cm range resolution for AUVs | ESP32, STM32, C++, Python, PlatformIO | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/VARUNA-SDS/ci.yml?label=CI&style=flat-square) |
+| [🪖 NIRDHVANI](https://github.com/gangasagar5928/NIRDHVANI) | Tactical dual-sensor adaptive noise cancellation comms for extreme battlefield environments using throat-piezo acoustic decoupling & NLMS DSP | ESP32, STM32, C, C++, FreeRTOS | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/NIRDHVANI/ci.yml?label=CI&style=flat-square) |
 | [🕉️ Dharma Daily](https://github.com/gangasagar5928/Dharma-Daily) | Offline Vedic Panchang, Sacred Scripture Reader & Spiritual Tradition Guide with 455-day Drik Siddhanta calendar | Flutter, Dart, Android | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/Dharma-Daily/ci.yml?label=CI&style=flat-square) |
 | [🎙️ Eloqui](https://github.com/gangasagar5928/Eloqui) | On-device AI English & IELTS speaking coach running Whisper STT + Llama 1.5B + Piper TTS via C++ FFI | Flutter, Dart, C++ FFI, llama.cpp | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/Eloqui/ci.yml?label=CI&style=flat-square) |
 
@@ -50,7 +52,8 @@
 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gangasagar5928&theme=radical&hide_border=true&area=true" width="96%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gangasagar5928&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gangasagar5928&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br>
