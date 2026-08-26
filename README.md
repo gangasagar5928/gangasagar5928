@@ -52,31 +52,34 @@
 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gangasagar5928&theme=radical" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=daily" width="98%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gangasagar5928&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gangasagar5928&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gangasagar5928&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gangasagar5928&theme=radical&utcOffset=5.5" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true&timezone=Asia%2FKolkata" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gangasagar5928&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gangasagar5928&theme=radical" width="49%" />
 </div>
 
 ---
 
 **Contribution Activity**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/gangasagar5928/gangasagar5928/output/github-contribution-grid-snake-dark.svg" width="98%" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=100&section=footer"/>
