@@ -52,21 +52,21 @@
 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=daily" width="98%" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Isometric Contribution Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gangasagar5928&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gangasagar5928&theme=radical&utcOffset=5.5" width="49%" />
+  <img src="profile-summary-card-output/radical/3-stats.svg" width="49%" alt="Stats" />
+  <img src="profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive Time" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gangasagar5928&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gangasagar5928&theme=radical" width="49%" />
+  <img src="profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Top Languages by Repo" />
+  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most Committed Language" />
 </div>
 
 ---
