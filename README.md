@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=190&section=header&text=Aman%20Kumar%20Singh%20%F0%9F%91%8B&fontSize=40&fontAlignY=36&animation=twinkling&desc=Electrical%20%26%20Electronics%20Engineer%20%7C%20Embedded%20Systems%20%26%20Defence%20Tech&descFontSize=16&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=180&section=header&text=Aman%20Kumar%20Singh&fontSize=42&fontAlignY=38&animation=twinkling&desc=Electrical%20%26%20Electronics%20Engineer%20%7C%20Embedded%20%26%20Defence%20Tech&descFontSize=16&descAlignY=62&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=23&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=⚡+EEE+Engineer+%7C+Embedded+Systems+%26+Cybersecurity;🚀+Building+Faujiniwas+—+Defence+Housing+Network;🌊+VARUNA-SDS+—+Subsea+Acoustic+Waveform+Synthesis;🪖+NIRDHVANI+—+Tactical+Adaptive+Noise+Cancellation;📱+Mobile+App+Developer+%7C+Flutter+%26+Dart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=EEE+Engineer+%7C+Embedded+Systems+%26+Cybersecurity;Building+Faujiniwas+%7C+Defence+Housing+Network;VARUNA-SDS+%7C+Subsea+Acoustic+Waveform+Synthesis;NIRDHVANI+%7C+Tactical+Adaptive+Noise-Cancelling+DSP;Mobile+App+Developer+%7C+Flutter+%26+Dart" alt="Typing SVG" />
 </a>
 
 <p align="center">
