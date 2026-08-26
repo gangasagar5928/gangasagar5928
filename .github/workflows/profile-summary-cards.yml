@@ -27,6 +27,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 5.5
 
+      - name: Format Timezone to UTC +5:30
+        run: |
+          find profile-summary-card-output -type f -name "4-productive-time.svg" -exec sed -i 's/(UTC +5.50)/(UTC +5:30)/g' {} +
+
       - name: Commit & Push Changes
         run: |
           git config user.name "github-actions[bot]"
