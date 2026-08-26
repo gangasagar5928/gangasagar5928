@@ -7,6 +7,10 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'profile-summary-card-output/**'
+      - 'profile-3d-contrib/**'
+      - 'README.md'
 
 permissions:
   contents: write
@@ -26,6 +30,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 5.5
+          AUTO_PUSH: false
 
       - name: Format Timezone to UTC +5:30
         run: |
@@ -39,6 +44,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore(summary-cards): update profile summary cards"
+            git commit -m "chore(summary-cards): update profile summary cards [skip ci]"
             git push
           fi

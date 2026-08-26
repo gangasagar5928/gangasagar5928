@@ -7,6 +7,10 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'profile-summary-card-output/**'
+      - 'profile-3d-contrib/**'
+      - 'README.md'
 
 permissions:
   contents: write
@@ -33,6 +37,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore(3d-contrib): update 3d contribution graphs"
+            git commit -m "chore(3d-contrib): update 3d contribution graphs [skip ci]"
             git push
           fi
