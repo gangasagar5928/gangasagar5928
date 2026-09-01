@@ -3,7 +3,7 @@
 # Hi there, I'm Aman Kumar Singh 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=EEE+Engineer+%7C+Embedded+Systems+%26+Cybersecurity;Building+Faujiniwas+%7C+Defence+Housing+Network;VARUNA-SDS+%7C+Subsea+Acoustic+Waveform+Synthesis;NIRDHVANI+%7C+Tactical+Adaptive+Noise-Cancelling+DSP;Mobile+App+Developer+%7C+Flutter+%26+Dart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=EEE+Engineer+%7C+Embedded+Systems+%26+Cybersecurity;Building+Faujiniwas+%7C+Defence+Housing+Network;SkyGuard+AI+%7C+Real-Time+AWS+Anomaly+Detection;VARUNA-SDS+%7C+Subsea+Acoustic+Waveform+Synthesis;NIRDHVANI+%7C+Tactical+Adaptive+Noise-Cancelling+DSP;Mobile+App+Developer+%7C+Flutter+%26+Dart" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -42,6 +42,7 @@
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
 | [**🏠&nbsp;𝓕𝒶𝓊𝒿𝒾𝓃𝒾𝓌𝒶𝓈**](https://github.com/gangasagar5928/faujiniwas) | *Zero-brokerage housing & relocation network for Indian Armed Forces across 62+ military cantonments* | `React 19` `Vite` `Firebase` `Flutter` | [![Live](https://img.shields.io/badge/-Live-238636?style=flat-square)](https://faujiniwas.web.app) |
+| [**🛰️&nbsp;𝓢𝓀𝓎𝓖𝓊𝒶𝓇𝒹&nbsp;𝒜𝓘**](https://github.com/Priyanshu9040/Skyguard-AI) | *Intelligent real-time anomaly detection & predictive maintenance for Automatic Weather Stations with 5-in-1 hybrid ML engine & edge C99/ESP32 core* | `Python 3.12` `FastAPI` `scikit-learn` `ESP32/C99` `WebSocket` | [![SIH Finalist](https://img.shields.io/badge/SIH-Finalist-FF9900?style=flat-square)](https://github.com/Priyanshu9040/Skyguard-AI) |
 | [**🌊&nbsp;𝓥𝒶𝓇𝓊𝓃𝒶-𝒮𝒟𝒮**](https://github.com/gangasagar5928/VARUNA-SDS) | *Software-Defined Subsea Acoustic Waveform Synthesizer with real-time DDS, LFM chirp modulation & 7.6 cm range resolution for AUVs* | `ESP32` `STM32` `C++` `Python` `PlatformIO` | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/VARUNA-SDS/ci.yml?label=CI&style=flat-square) |
 | [**🪖&nbsp;𝓝𝒾𝓇𝒹𝒽𝓋𝒶𝓃𝒾**](https://github.com/gangasagar5928/NIRDHVANI) | *Tactical dual-sensor adaptive noise cancellation comms for extreme battlefield environments using throat-piezo acoustic decoupling & NLMS DSP* | `ESP32` `STM32` `C` `C++` `FreeRTOS` | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/NIRDHVANI/ci.yml?label=CI&style=flat-square) |
 | [**🕉️&nbsp;𝒟𝒽𝒶𝓇𝓂𝒶&nbsp;𝒟𝒶𝒾𝓁𝓎**](https://github.com/gangasagar5928/Dharma-Daily) | *Offline Vedic Panchang, Sacred Scripture Reader & Spiritual Tradition Guide with 455-day Drik Siddhanta calendar* | `Flutter` `Dart` `Android` | ![CI](https://img.shields.io/github/actions/workflow/status/gangasagar5928/Dharma-Daily/ci.yml?label=CI&style=flat-square) |
