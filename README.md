@@ -60,7 +60,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true" width="98%" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true&timezone=Asia/Calcutta" width="98%" alt="GitHub Streak Stats" />
   </a>
 </div>
 
