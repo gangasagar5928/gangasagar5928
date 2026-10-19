@@ -59,6 +59,14 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=gangasagar5928&theme=radical&hide_border=true" width="98%" alt="GitHub Streak Stats" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="profile-summary-card-output/radical/3-stats.svg" width="49%" alt="Stats" />
   <img src="profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive Time" />
 </div>
