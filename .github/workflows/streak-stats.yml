@@ -1,0 +1,43 @@
+name: GitHub-Streak-Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'profile-summary-card-output/**'
+      - 'profile-3d-contrib/**'
+      - 'profile/**'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-streak-stats
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=radical&hide_border=true&timezone=Asia/Kolkata
+          path: profile/streak.svg
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(streak): update streak stats [skip ci]"
+            git push
+          fi

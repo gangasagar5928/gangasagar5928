@@ -10,6 +10,7 @@ on:
     paths-ignore:
       - 'profile-summary-card-output/**'
       - 'profile-3d-contrib/**'
+      - 'profile/**'
       - 'README.md'
 
 permissions:

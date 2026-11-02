@@ -10,6 +10,7 @@ on:
     paths-ignore:
       - 'profile-summary-card-output/**'
       - 'profile-3d-contrib/**'
+      - 'profile/**'
       - 'README.md'
 
 permissions:
@@ -33,7 +34,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A .
+          git add .
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
