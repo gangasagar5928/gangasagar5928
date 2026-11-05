@@ -27,7 +27,7 @@ jobs:
       - name: Generate Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&theme=radical&hide_border=true&timezone=Asia/Kolkata
+          options: user=${{ github.repository_owner }}&theme=radical&hide_border=true
           path: profile/streak.svg
 
       - name: Commit & Push Changes
