@@ -30,6 +30,28 @@ jobs:
           options: user=${{ github.repository_owner }}&theme=radical&hide_border=true
           path: profile/streak.svg
 
+      - name: Guard Against Streak Regression
+        run: |
+          python3 -c "
+          import re, subprocess
+          with open('profile/streak.svg') as f:
+              new_m = re.search(r'Current Streak big number[\s\S]*?<text[^>]+>\s*(\d+)', f.read())
+          new_val = int(new_m.group(1)) if new_m else 0
+
+          try:
+              old_raw = subprocess.check_output(['git', 'show', 'HEAD:profile/streak.svg'], text=True)
+              old_m = re.search(r'Current Streak big number[\s\S]*?<text[^>]+>\s*(\d+)', old_raw)
+              old_val = int(old_m.group(1)) if old_m else 0
+          except Exception:
+              old_val = 0
+
+          if new_val < old_val:
+              print(f'Preventing regression: new streak ({new_val}) < saved streak ({old_val})')
+              subprocess.run(['git', 'checkout', 'profile/streak.svg'])
+          else:
+              print(f'Streak valid: {new_val} >= {old_val}')
+          "
+
       - name: Commit & Push Changes
         run: |
           git config user.name "github-actions[bot]"
